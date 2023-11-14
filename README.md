@@ -1,2 +1,42 @@
-# SPENDR
-for MAD402 Practical Exam
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 168 53"><path d="m17.29 25.89-3.68-3.23V7.4c.59.2 1.11.49 1.53.87.89.81 1.5 1.87 1.86 3.19.35 1.32.59 2.76.71 4.34l5.67-.53c-.2-2.09-.58-4.9-1.15-6.46-.57-1.55-1.34-2.84-2.3-3.87-.96-1.02-2.16-1.78-3.6-2.27-.83-.28-1.73-.47-2.71-.59V-.24h-3.08v2.21c-3.09.13-5.56 1.08-7.41 2.85C1.12 6.75.12 9.46.12 12.97c0 2.4.37 4.42 1.12 6.05.75 1.63 1.91 3.14 3.48 4.52l5.81 5.12v16.42c-.7-.25-1.3-.63-1.79-1.15-.94-1-1.62-2.29-2.04-3.87-.41-1.57-.68-3.21-.8-4.9l-5.9.59c.16 2.75.71 6.17 1.65 8.26s2.33 3.72 4.16 4.9c1.33.86 2.9 1.39 4.72 1.63v2.21h3.08v-2.12c1.86-.11 3.54-.53 5.01-1.31 1.71-.9 3.06-2.21 4.04-3.93.98-1.71 1.48-3.75 1.48-6.11 0-2.99-.69-5.58-2.07-7.76-1.37-2.18-2.97-4.05-4.78-5.63zm-8.08-7.08c-1.1-.98-1.9-1.95-2.39-2.89-.49-.94-.74-2.14-.74-3.6 0-1.73.46-3.04 1.39-3.93.77-.73 1.8-1.15 3.06-1.27v12.85l-1.32-1.16zm7.41 25.17c-.72.78-1.73 1.23-3 1.38V31.42c1.11 1.07 2.07 2.13 2.86 3.18.98 1.32 1.48 3.06 1.48 5.22-.02 1.81-.46 3.2-1.34 4.16zM47.47 3.91c-1.71-1.04-4-1.56-6.88-1.56H28.73v47.81h6.67V27.9h5.25c2.6 0 4.76-.5 6.49-1.51 1.73-1 3.04-2.43 3.92-4.28.89-1.85 1.33-4.03 1.33-6.55 0-2.79-.39-5.17-1.18-7.14-.78-1.97-2.03-3.47-3.74-4.51zm-2.1 16.29c-.47 1.08-1.26 1.84-2.36 2.27-1.1.43-2.62.65-4.54.65H35.4v-16h3.13c2.24 0 3.9.24 4.96.71s1.76 1.32 2.1 2.54c.33 1.22.5 2.97.5 5.25-.01 1.97-.25 3.49-.72 4.58zM63.73 27.84h9.62v-4.72h-9.62V7.3h11.86V2.34H57.06v47.81h18.65v-4.78H63.73zM99.2 34.1 85.62 2.34h-4.54v47.81h5.67V17.51l13.75 32.64h4.25V2.34H99.2zM131.04 3.96c-2.06-1.08-4.87-1.62-8.41-1.62h-10.39v47.81h10.92c3.34 0 6.01-.6 8-1.8 1.99-1.2 3.42-2.96 4.31-5.28.88-2.32 1.33-5.17 1.33-8.56V16.92c0-3.23-.44-5.92-1.33-8.09-.89-2.16-2.36-3.78-4.43-4.87zm-.97 29.31c0 2.56-.11 4.74-.33 6.55-.22 1.81-.84 3.19-1.86 4.13s-2.75 1.42-5.19 1.42h-3.78V7.3h3.6c2.28 0 3.95.35 5.02 1.06 1.06.71 1.75 1.83 2.07 3.36.31 1.53.47 3.54.47 6.02v15.53zM161.11 26.19c1.42-.47 2.56-1.23 3.42-2.27.87-1.04 1.49-2.32 1.89-3.84.39-1.51.59-3.2.59-5.05 0-3.03-.5-5.48-1.51-7.35-1-1.87-2.55-3.23-4.63-4.07-2.09-.85-4.72-1.27-7.91-1.27h-9.62v47.81h6.67V27.72h5.19l6.26 22.43h6.43l-6.78-23.96zm-1.35-6.38a4.745 4.745 0 0 1-2.6 2.42c-1.18.47-2.71.71-4.6.71h-2.54V7.12h2.95c3.03 0 5.05.62 6.08 1.86 1.02 1.24 1.54 3.26 1.54 6.05-.01 2.05-.28 3.64-.83 4.78z"/></svg>
+![spendr-logo](https://github.com/scvirtued/SPENDR/assets/114676663/a86d7b0e-72bb-4b15-80ee-1fb14370487c)
+# Case Study
+
+2023-11-14 <br>
+by [Dalton Virtue](https://github.com/scvirtued)
+
+## Introduction
+$PENDR is a finance app designed to aid users with financial monitoring. The app consists of several features that are used within finance applications to monitor monetary activity such as a user’s income, bank accounts, expenses (bills, mortgages, loans, etc.), and investments. The first step in preparing for this application is to properly analyze features offered on other financial apps and services to extrapolate what works and what doesn’t. This article will provide an in-depth and analytical summary of the data, actions performed, best fitting UI/UX designs, and a hierarchy of the most prominent features used in the application.
+
+## Analysis of UI/UX designs
+From examples provided on Dribbble…
+1. ![alt text](https://cdn.dribbble.com/users/953678/screenshots/14308350/media/9398e16199382735f66f9080c867a99c.png?resize=400x)
+  2. ![alt text](https://cdn.dribbble.com/userupload/4049773/file/original-7f6eaf44617aa3a3cef1b5ce8ecadb24.jpg?resize=400x)
+  3. ![alt text](https://cdn.dribbble.com/userupload/3177053/file/original-9392dc541523d35c6f0abdc34d1b8698.png?resize=400x)
+
+## Features
+**From Screenshot 1**:
+Something important to note in this design is the transaction history being recorded for the user. Showing transaction history is an important component of financial applications and should be included when creating an application for convenience of the user. The transaction history also includes variables such as purchase location, amount spent, time spent, and total amount spent for the day. These are all good variables to include when recording transaction history and would be a good design choice to include for the user.
+
+**From Screenshot 2**:
+In this example and the example before, the balance variable is often given its own page. What is unique in this case is the percentage change daily. This is an important design choice for a user because a generalized difference in sum of money conveniences the user in contrast to reading through each individual transaction, however both should still be included. The choice of a line graph to illustrate the balance history is a good, simplified version of what a user should be presented when using a finance app.
+
+**From Screenshot 3**:
+This example provides an excellent UI/UX design choice. The primary and secondary colours are used in contrast to each other on the “Deposit”/”Withdraw” buttons which is a nice touch to illustrate how they differ. The black, corner-radiused boxes are an excellent design choice for dividing the financial sections. An important observation about this example is that it is using a white-filled box/white backgrounds for numeric displays and black backgrounds for textual displays. This design choice is good because it prioritizes the areas of the screen that user’s pay attention to most.
+
+## Existing Conventions
+The ability to manage your cards is a feature common throughout many of these UI/UX designs and should be included since it would make sense in order to record transactions. Another common pattern between these UI/UX designs that was not included in the examples above is the ability to transfer money to other people, which is definitely a convenient feature to be included in the application. Lastly, from the account balance, the ability to view your individual accounts, and add to the wallet/withdraw from it was often included in the UI/UX designs. All of these features are a good choice for minimum requirements to have a proper financial convenience application. A feature not included from the examples found that might be of value is a “Billing” or “Investments” which follow similar UI/UX design principles such as displaying bills or investments in a table-like structure. These are also convenient features to help contribute towards a user’s net gain/loss.
+
+## Target Audience
+Potential user demographics for this application would be younger and older adults with spending habits that aim to address these issues. At the bare minimum, any user who carries some form of income and/or expenses can use the application. Keeping track of billing and investments might apply more to an older demographic that is trying to build a future and carries more expenses. The importance of simplification with UI/UX design choices will help incentivize a much older, non tech-savvy demographic into using the application.
+
+## Visualization of Financial Data
+A useful graph type for displaying financial information is a line graph. A line graph can compare the gains/losses of an account over some period of time. When displaying this data, there should be a way to change the range of time for financial history. A way to do this is creating a drop-down menu for “Daily”, “Weekly”, “Monthly”, or “Yearly” transaction history. Alternatively, a pie chart can be used to divide a user’s incomes against their expenses, or it can display categorical purchasing decisions such as how much is spent shopping, buying food, or transportation. The simplest design choice would be to include a + or - symbol to indicate a net gain or loss on your finances.
+
+## Collecting Financial Data
+The simplest method for users to submit financial data such as a card number or amount to deposit/withdraw is a popup number pad for keyboard input. This action can be called via the “Manage Cards” page, “Deposit”/”Withdraw” buttons, or transferring money to other users.
+
+## Conclusion
+Based on UI/UX analysis of financial applications, the $PENDR application will be successful due to its collection of features that are common throughout several financial apps. The simplistic design choices that will be made based on example 3 should help incentivize and put ease to non tech-savvy users into using the application. Some notes of concern will be how proportionately the app’s components are laid out on each screen. Making sure there is enough space for graphs, drop down menus, text, tab bars, etc. will be of great concern to avoid a cluttered screen. Something to put thought into is how gradients and drop shadows will be used throughout the application. The black and white along with a chosen secondary colour can be powerful if the write contrasts/drop shadows are chosen in the right places.
+
+
